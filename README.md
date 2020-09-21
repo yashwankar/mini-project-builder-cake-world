@@ -59,11 +59,15 @@ Size of the layer for each crust
     visibility: hidden;
 }
 ```
+	
 
+![Image description](https://i1.faceprep.in/ProGrad/Mern-cakeworld-1.png)
 
 ### Progression 2: LAYER THEM UP
 
 Setup `EventListeners`, so that we can add or remove different ingredients by clicking on the respective ingredient buttons. That's the whole point of it.
+
+![Image description](https://i1.faceprep.in/ProGrad/Mern-cakeworld-2.png)
 
 ### Challenge 1: SHOW EM UP
 
@@ -72,9 +76,10 @@ Make the ingredient buttons pop up based on their current active state. This wou
 ### Challenge 2: TAKE THE ORDER
 
 Show the customer only the ingredients that they've selected on the chalk board.
-
+![Image description](https://i1.faceprep.in/ProGrad/Mern-cakeworld-3.png)
 ### Challenge 3: BILL TIME
 
 The customer has had a good time customizing his cake. Time for him to pay. Use ingredient prices to calculate the cost of a cake and display it to the customer.
 
+![Image description](https://i1.faceprep.in/ProGrad/Mern-cakeworld-4.png)
 Happy Coding ProGrads❤️
